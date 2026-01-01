@@ -1,0 +1,11 @@
+{
+  "name": "smart-task-organizer-backend",
+  "version": "1.0.0",
+  "description": "REST API for the Smart Task Organizer project",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
