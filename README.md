@@ -1,18 +1,36 @@
 # Task Management System
 
-## Project Description
-A task management system that allows users to create, update, delete, complete, sort, filter, and export tasks.
-The system follows clean architecture principles and supports local file persistence.
+## 📌 Project Overview
+The **Task Management System** is a simple and efficient application designed to help users manage their daily tasks.
+It allows users to create, update, delete, complete, sort, filter, and export tasks with ease.
 
-## Technologies Used
-- Backend: Node.js (Express)
-- Frontend: HTML, JavaScript
-- Storage: Local JSON file
-- Architecture: REST API
+The system is built following **clean architecture principles** and uses **local file persistence** to store task data.
 
-## How to Run the Project
+---
 
-### Backend
+## 🚀 Features
+- Create new tasks
+- Update existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Sort and filter tasks
+- Export tasks
+- RESTful API design
+- Clean and maintainable architecture
+
+---
+
+## 🛠 Technologies Used
+- **Backend:** Node.js (Express)
+- **Frontend:** HTML, JavaScript
+- **Storage:** Local JSON file
+- **Architecture:** REST API
+
+---
+
+## ▶️ How to Run the Project
+
+### Backend Setup
 ```bash
 cd backend
 npm install
